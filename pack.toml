@@ -1,0 +1,12 @@
+name = "Paczka"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "51d205908b578b60710a922ec1816145229cc58d54944ceb0832b187f5acface"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

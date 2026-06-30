@@ -1,0 +1,13 @@
+name = "Saro´s Road Signs"
+filename = "saros_road_signs_mod-4.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/FWcK2E72/saros_road_signs_mod-4.11.jar"
+hash-format = "sha512"
+hash = "62561fab7f73da07f5ee96a237c5f9a892652332182bdadf5752f607fc332291a106035c98a9a821fc145f2f6b8d74e392979615e1fce3652efe9351d8f2f15b"
+
+[update]
+[update.modrinth]
+mod-id = "Ba3uA4qP"
+version = "FWcK2E72"

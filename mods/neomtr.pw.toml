@@ -1,0 +1,13 @@
+name = "NeoMTR"
+filename = "NeoMTR-300.6.1+1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xilU2EKS/versions/Eo1RNucl/NeoMTR-300.6.1%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "aefbcf98e120d6194210611de32b79899b21ff8d19d372974a39d3d5631c23d65036cbcf30ddc1f2e2d9c8ca2c800b6f270a27e9127b40f6b0c44f7c32d25c23"
+
+[update]
+[update.modrinth]
+mod-id = "xilU2EKS"
+version = "Eo1RNucl"

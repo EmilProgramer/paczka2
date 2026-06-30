@@ -1,0 +1,13 @@
+name = "Saro´s Road Blocks"
+filename = "saros_road_blocks_mod-5.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NnMIY8We/versions/1OtbSDbd/saros_road_blocks_mod-5.9.jar"
+hash-format = "sha512"
+hash = "d34faf8fa8d6d21d7ae362b093af50b01e7243749daf3a60b767f8d76d81d69d9b4512a2578b4fb5a0eaa1459c189504fe55daf692c14af083a76c3a06b8b3d2"
+
+[update]
+[update.modrinth]
+mod-id = "NnMIY8We"
+version = "1OtbSDbd"

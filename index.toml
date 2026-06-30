@@ -1,17 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "autoadd.ps1"
-hash = "05886284bfa86856397d908e47638c71315122488b86b041d8491d7d86337ff8"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "eac365c8ec7e5c59649eef8d0fa4ff7d05e3ce284affac9a53ec331624ccf81c"
+hash = "eba732fc35d03f85027e50825855aae989eacb07a62270bf58a9bfe8f34ab5a3"
 metafile = true
 
 [[files]]
@@ -211,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+hash = "5b24721dc768cea7ddb91468092cb41f9893d13fcad29b1798fa791669480c31"
 metafile = true
 
 [[files]]
@@ -271,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
+hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
 metafile = true
 
 [[files]]
@@ -326,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
+hash = "4914e4a76d2671446a75f6162cb373cc0b1d585dd8a2685566a039c6ed8d1480"
 metafile = true
 
 [[files]]
@@ -376,12 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e843b87f52758657caf3863367e0f3c22e23c16ac673ab278f12f820b4d4f551"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+hash = "d379a43459f5d24be47e6518a804dcf303b344b9e8a870d30213efd392c7a05e"
 metafile = true
 
 [[files]]
@@ -416,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+hash = "543569dcdb3c4b8875fdefd900b05deae81604341681ba4942e994598636f123"
 metafile = true
 
 [[files]]
